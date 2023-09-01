@@ -1,7 +1,7 @@
 Emita
 Kania
 Lareza
-Satrio
+Satrio Baja Hitam
 
 git init
 git status
