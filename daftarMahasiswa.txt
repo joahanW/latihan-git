@@ -2,3 +2,9 @@ Emita
 Kania
 Ghufron
 Lareza
+
+git init
+git status
+git add (nama file)/ . (ADD all File)
+git commit -m "Message"
+git log
