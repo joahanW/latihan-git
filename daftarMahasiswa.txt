@@ -2,6 +2,7 @@ Emita
 Kania
 Ghufron
 Lareza
+Avicenna
 
 git init
 git status
