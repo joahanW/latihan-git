@@ -3,6 +3,7 @@ Kania
 Ghufron
 Lareza
 Avicenna
+Satrio
 
 git init
 git status
