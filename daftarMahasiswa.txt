@@ -2,7 +2,7 @@ Emita
 Kania
 Lareza
 Avicenna
-Satrio
+Satrio Baja Hitam
 
 git init
 git status
